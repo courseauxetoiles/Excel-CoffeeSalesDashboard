@@ -9,10 +9,10 @@ countries, and products.
 The dashboard transforms raw transactional data into meaningful
 insights, enabling users to:
 
--   Track total sales trends\
--   Identify top customers\
--   Compare sales by country\
--   Understand product performance\
+-   Track total sales trends
+-   Identify top customers
+-   Compare sales by country
+-   Understand product performance
 -   Make data-driven business decisions
 
 This project demonstrates practical skills in data cleaning, modeling,
@@ -24,9 +24,9 @@ analysis, and dashboard design using Excel.
 
 The main objectives of this project are to:
 
--   Centralize coffee sales data from multiple tables\
--   Create a structured data model using lookups and calculated fields\
--   Analyze sales performance across multiple dimensions\
+-   Centralize coffee sales data from multiple tables
+-   Create a structured data model using lookups and calculated fields
+-   Analyze sales performance across multiple dimensions
 -   Present insights through a clean, interactive Excel dashboard
 
 ------------------------------------------------------------------------
@@ -112,27 +112,27 @@ and dashboard.
 
 ### Data Cleaning
 
--   Ensured consistent IDs across tables\
--   Removed blanks and formatting errors\
+-   Ensured consistent IDs across tables
+-   Removed blanks and formatting errors
 -   Standardized coffee and roast names
 
 ### Data Modeling
 
 -   Used **XLOOKUP / VLOOKUP** to combine product and customer data into
-    orders\
+    orders
 -   Created calculated columns for sales metrics
 
 ### Pivot Table Creation
 
--   Total sales by date\
--   Sales by country\
--   Top 5 customers\
+-   Total sales by date
+-   Sales by country
+-   Top 5 customers
 -   Sales by coffee type and roast type
 
 ### Dashboard Design
 
--   Built charts linked to PivotTables\
--   Added slicers for interactivity\
+-   Built charts linked to PivotTables
+-   Added slicers for interactivity
 -   Applied consistent formatting and layout
 
 ------------------------------------------------------------------------
@@ -153,9 +153,10 @@ Ranked customer performance based on total spending.
 
 ### Interactive Filters (Slicers)
 
-Filter by: - Coffee Type\
-- Roast Type\
-- Loyalty Card
+Filter by: 
+- Coffee Type
+- Roast Type
+- Loyalty Car
 
 All visuals update dynamically when slicers are changed.
 
@@ -163,50 +164,50 @@ All visuals update dynamically when slicers are changed.
 
 ## 🧠 Key Insights You Can Extract
 
--   Which country generates the highest revenue\
--   Which coffee type and roast sells best\
--   Who the top customers are\
--   How loyalty card members impact revenue\
+-   Which country generates the highest revenue
+-   Which coffee type and roast sells best
+-   Who the top customers are
+-   How loyalty card members impact revenue
 -   Sales trends across time
 
 ------------------------------------------------------------------------
 
 ## 🛠 Tools & Techniques Used
 
--   Microsoft Excel\
--   PivotTables & PivotCharts\
--   XLOOKUP / VLOOKUP\
--   IF & calculated fields\
--   Slicers\
--   Data validation & formatting\
+-   Microsoft Excel
+-   PivotTables & PivotCharts
+-   XLOOKUP / VLOOKUP
+-   IF & calculated fields
+-   Slicers
+-   Data validation & formatting
 -   Dashboard layout and chart design
 
 ------------------------------------------------------------------------
 
 ## ▶ How to Use the Dashboard
 
-1.  Open **coffeeOrdersProject.xlsx**\
-2.  Go to the **Dashboard** sheet\
+1.  Open **coffeeOrdersProject.xlsx**
+2.  Go to the **Dashboard** sheet
 3.  Use the slicers to filter by:
-    -   Coffee Type\
-    -   Roast Type\
-    -   Loyalty Card\
+    -   Coffee Type
+    -   Roast Type
+    -   Loyalty Card
 4.  Explore how charts and KPIs update automatically
 
 ------------------------------------------------------------------------
 
 ## 🚀 Future Improvements
 
--   Add monthly and yearly trend analysis\
--   Include profit margin visualizations\
--   Create customer segmentation\
--   Add geographic map visualization\
+-   Add monthly and yearly trend analysis
+-   Include profit margin visualizations
+-   Create customer segmentation
+-   Add geographic map visualization
 -   Automate data refresh using Power Query
 
 ------------------------------------------------------------------------
 
 ## 📌 Author
 
-**Raihan Ahmad Abiyyu**\
-Aspiring Data Analyst / Business Intelligence\
+**Raihan Ahmad Abiyyu**
+Aspiring Data Analyst / Business Intelligence
 GitHub: **courseauxetoiles**
