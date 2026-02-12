@@ -209,5 +209,7 @@ All visuals update dynamically when slicers are changed.
 ## 📌 Author
 
 **Raihan Ahmad Abiyyu**
+
 Aspiring Data Analyst / Business Intelligence
+
 GitHub: **courseauxetoiles**
