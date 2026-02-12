@@ -23,25 +23,29 @@ The main objectives of this project are to:
 ------------------------------------------------------------------------
 
 ## 📂 File Structure
-Coffee Sales Analysis Dashboard/
-│
-├── CoffeeOrders.xlsx
-├── coffeeOrdersData.xlsx
-├── coffeeOrdersProject.xlsx   <-- Main dashboard file
-└── README.md
+
+CoffeeOrders.xlsx\
+coffeeOrdersData.xlsx\
+coffeeOrdersProject.xlsx (Main file)
+
 
 **Main File**
-- **coffeeOrdersProject.xlsx** → Contains the full data model, analysis, and dashboard.
+- **coffeeOrdersProject.xlsx** → Contains the full data model, analysis, and dashboard.\
 
-🗂 Workbook & Worksheet Description
-Worksheet	Description
-Dashboard	Interactive visual dashboard with slicers and charts
-TotalSales	Pivot table and analysis of total sales over time
-CountryBarChart	Pivot analysis of sales by country
-Top5Customers	Top 5 customers based on total sales
-orders	Raw transactional order data
-customers	Customer master data
-products	Product and pricing details
+------------------------------------------------------------------------
+
+## 🗂 Workbook & Worksheet Description
+
+  Worksheet  Description
+  ----------------- -----------------------
+  Dashboard  	      Interactive visual dashboard with slicers and charts
+  TotalSales      	Pivot table and analysis of total sales over time
+  CountryBarChart	  Pivot analysis of sales by country
+  Top5Customers	    Top 5 customers based on total sales
+  orders	          Raw transactional order data
+  customers	        Customer master data
+  products	        Product and pricing details
+  
 🧾 Data Structure
 1. orders Sheet
 Column	Description
