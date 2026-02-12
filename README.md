@@ -9,23 +9,20 @@ The dashboard transforms raw transactional data into meaningful insights, enabli
 - Compare sales by country
 - Understand product performance
 -  Make data-driven business decisions
+This project demonstrates practical skills in **data cleaning, modeling, analysis, and dashboard design using Excel.**
 
-This project demonstrates practical skills in data cleaning, modeling, analysis, and dashboard design using Excel.
 ------------------------------------------------------------------------
 
-🎯 Project Purpose
-
+## 🎯 Project Purpose
 The main objectives of this project are to:
+- Centralize coffee sales data from multiple tables
+- Create a structured data model using lookups and calculated fields
+- Analyze sales performance across multiple dimensions
+- Present insights through a clean, interactive Excel dashboard
 
-Centralize coffee sales data from multiple tables
+------------------------------------------------------------------------
 
-Create a structured data model using lookups and calculated fields
-
-Analyze sales performance across multiple dimensions
-
-Present insights through a clean, interactive Excel dashboard
-
-📂 File Structure
+## 📂 File Structure
 Coffee Sales Analysis Dashboard/
 │
 ├── CoffeeOrders.xlsx
@@ -33,9 +30,8 @@ Coffee Sales Analysis Dashboard/
 ├── coffeeOrdersProject.xlsx   <-- Main dashboard file
 └── README.md
 
-Main File
-
-coffeeOrdersProject.xlsx → Contains the full data model, analysis, and dashboard.
+**Main File**
+- **coffeeOrdersProject.xlsx** → Contains the full data model, analysis, and dashboard.
 
 🗂 Workbook & Worksheet Description
 Worksheet	Description
